@@ -1,0 +1,1 @@
+extract source code from [Blockception/Minecraft-bedrock-json-schemas](https://github.com/Blockception/Minecraft-bedrock-json-schemas/releases) into `json-schemas` then run `node .` to generate type definitions

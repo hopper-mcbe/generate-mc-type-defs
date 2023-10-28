@@ -1,0 +1,9 @@
+{
+  "name": "generate-mc-type-defs",
+  "license": "ISC",
+  "version": "1.0.0",
+  "description": "Generate minecraft_definition_types.d.ts from JSON schemas",
+  "private": true,
+  "type": "module",
+  "main": "index.js"
+}
